@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70" height="70" viewBox="0 0 70 70">
+  <defs>
+    <clipPath id="clip-about_us_icon">
+      <rect width="70" height="70"/>
+    </clipPath>
+  </defs>
+  <g id="about_us_icon" data-name="about us icon" clip-path="url(#clip-about_us_icon)">
+    <g id="aboutus_icon">
+      <path id="Path_11675" data-name="Path 11675" d="M35,70A35,35,0,1,1,70,35,35,35,0,0,1,35,70ZM35,7.18A27.82,27.82,0,1,0,62.82,35,27.82,27.82,0,0,0,35,7.18Z"/>
+      <path id="Path_11676" data-name="Path 11676" d="M35.833,57.3a4.427,4.427,0,0,1-4.423-4.423V37.4a4.423,4.423,0,0,1,8.846,0V52.877A4.427,4.427,0,0,1,35.833,57.3Z" transform="translate(-0.846 -4.337)"/>
+      <path id="Path_11677" data-name="Path 11677" d="M35.868,29.406a4.423,4.423,0,1,1-.049-8.846h.037a4.423,4.423,0,1,1,0,8.846Z" transform="translate(-0.843 -3.522)"/>
+    </g>
+  </g>
+</svg>

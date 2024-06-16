@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="230" height="199" viewBox="0 0 230 199">
+  <defs>
+    <clipPath id="clip-hexagon_skin">
+      <rect width="230" height="199"/>
+    </clipPath>
+  </defs>
+  <g id="hexagon_skin" clip-path="url(#clip-hexagon_skin)">
+    <path id="Path_11684" data-name="Path 11684" d="M172.334,199H57.445L0,99.494,57.445,0H172.334l57.445,99.494-57.445,99.494ZM76.9,165.3h75.976l37.994-65.8-37.994-65.8H76.9L38.9,99.506Z" transform="translate(0 0)" fill="#353535"/>
+  </g>
+</svg>

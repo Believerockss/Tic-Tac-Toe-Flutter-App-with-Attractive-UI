@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="198" height="198" viewBox="0 0 198 198">
+  <defs>
+    <clipPath id="clip-diamond_skin">
+      <rect width="198" height="198"/>
+    </clipPath>
+  </defs>
+  <g id="diamond_skin" clip-path="url(#clip-diamond_skin)">
+    <path id="Path_11679" data-name="Path 11679" d="M99,198,0,99,99,0l99,99ZM40.709,99,99,157.291,157.291,99,99,40.709Z" fill="#353535"/>
+  </g>
+</svg>

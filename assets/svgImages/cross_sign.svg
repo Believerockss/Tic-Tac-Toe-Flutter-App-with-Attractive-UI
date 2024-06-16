@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="133" height="133" viewBox="0 0 133 133">
+  <defs>
+    <clipPath id="clip-cross_sign">
+      <rect width="133" height="133"/>
+    </clipPath>
+  </defs>
+  <g id="cross_sign" clip-path="url(#clip-cross_sign)">
+    <g id="cross_play" transform="translate(-6.762 -7.074)">
+      <path id="Path_4935" data-name="Path 4935" d="M34.335,0,19.377,14.958,4.419,0,0,4.416,14.959,19.374,0,34.332l4.416,4.416L19.375,23.79,34.333,38.748l4.416-4.416L23.79,19.374h0L38.751,4.416Z" transform="translate(29.358 39.668)" fill="#e47d28" opacity="0.05"/>
+      <path id="Path_4937" data-name="Path 4937" d="M34.335,0,19.377,14.958,4.419,0,0,4.416,14.959,19.374,0,34.332l4.416,4.416L19.375,23.79,34.333,38.748l4.416-4.416L23.79,19.374h0L38.751,4.416Z" transform="translate(28.027 38.337)" fill="#e47d28"/>
+    </g>
+  </g>
+</svg>

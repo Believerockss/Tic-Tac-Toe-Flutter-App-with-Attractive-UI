@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="197" height="172" viewBox="0 0 197 172">
+  <defs>
+    <clipPath id="clip-triangle_skin">
+      <rect width="197" height="172"/>
+    </clipPath>
+  </defs>
+  <g id="triangle_skin" clip-path="url(#clip-triangle_skin)">
+    <path id="Path_11761" data-name="Path 11761" d="M200,173.21H0L100,0Zm-149.77-29h99.53L100,58.01l-49.77,86.2Z" transform="translate(-1 -1)" fill="#353535"/>
+  </g>
+</svg>

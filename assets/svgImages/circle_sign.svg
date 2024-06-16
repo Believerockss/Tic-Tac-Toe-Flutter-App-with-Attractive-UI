@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="137" height="137" viewBox="0 0 137 137">
+  <defs>
+    <clipPath id="clip-circle_sign">
+      <rect width="137" height="137"/>
+    </clipPath>
+  </defs>
+  <g id="circle_sign" clip-path="url(#clip-circle_sign)">
+    <g id="circle_play" transform="translate(-1.195 0.253)">
+      <path id="Path_4933" data-name="Path 4933" d="M50.4,37.494A24.645,24.645,0,1,0,75.408,62.124,24.727,24.727,0,0,0,50.4,37.494Zm-.294,37.053A12.412,12.412,0,1,1,63.147,61.508,12.469,12.469,0,0,1,50.108,74.547Z" transform="translate(-4.394 -5.858)" opacity="0.04"/>
+      <path id="Path_4934" data-name="Path 4934" d="M44.4,29.494A24.645,24.645,0,1,0,69.408,54.124,24.727,24.727,0,0,0,44.4,29.494Zm-.294,37.053A12.412,12.412,0,1,1,57.147,53.508,12.469,12.469,0,0,1,44.108,66.547Z" transform="translate(0 0)" fill="#f5365d"/>
+    </g>
+  </g>
+</svg>

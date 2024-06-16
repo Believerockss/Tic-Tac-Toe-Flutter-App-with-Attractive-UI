@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="279" height="279" viewBox="0 0 279 279">
+  <defs>
+    <clipPath id="clip-menu_button">
+      <rect width="279" height="279"/>
+    </clipPath>
+  </defs>
+  <g id="menu_button" clip-path="url(#clip-menu_button)">
+    <g id="menu_button-2" data-name="menu_button" transform="translate(0.1 -0.99)">
+      <circle id="Ellipse_1054" data-name="Ellipse 1054" cx="79.73" cy="79.73" r="79.73" transform="translate(54.9 51.99)" fill="#f7f7f7" opacity="0.7"/>
+      <circle id="Ellipse_1055" data-name="Ellipse 1055" cx="9.91" cy="9.91" r="9.91" transform="translate(104.64 102.61)"/>
+      <circle id="Ellipse_1056" data-name="Ellipse 1056" cx="9.91" cy="9.91" r="9.91" transform="translate(144.17 102.61)"/>
+      <circle id="Ellipse_1057" data-name="Ellipse 1057" cx="9.91" cy="9.91" r="9.91" transform="translate(104.64 143)"/>
+      <circle id="Ellipse_1058" data-name="Ellipse 1058" cx="9.91" cy="9.91" r="9.91" transform="translate(144.17 143)"/>
+    </g>
+  </g>
+</svg>

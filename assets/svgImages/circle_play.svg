@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="274" height="274" viewBox="0 0 274 274">
+  <defs>
+    <clipPath id="clip-circle_play">
+      <rect width="274" height="274"/>
+    </clipPath>
+  </defs>
+  <g id="circle_play" clip-path="url(#clip-circle_play)">
+    <g id="circle_play-2" data-name="circle_play" transform="translate(-1.068 -0.542)">
+      <path id="Path_4933" data-name="Path 4933" d="M117.32,37.5c-49.83.7-90.517,41.29-91.22,91.12A92.532,92.532,0,1,0,117.32,37.5Zm-1.105,139.041a46.577,46.577,0,1,1,48.925-48.925A46.791,46.791,0,0,1,116.215,176.541Z" transform="translate(0.028 0.037)" opacity="0.04"/>
+      <path id="Path_4934" data-name="Path 4934" d="M111.32,29.5c-49.83.7-90.517,41.29-91.22,91.12A92.532,92.532,0,1,0,111.32,29.5Zm-1.105,139.041a46.577,46.577,0,1,1,48.925-48.925A46.791,46.791,0,0,1,110.215,168.541Z" transform="translate(0 0)" fill="#f5365d"/>
+    </g>
+  </g>
+</svg>

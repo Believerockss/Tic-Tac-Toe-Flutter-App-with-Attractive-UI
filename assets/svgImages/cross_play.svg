@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="252" height="252" viewBox="0 0 252 252">
+  <defs>
+    <clipPath id="clip-cross_play">
+      <rect width="252" height="252"/>
+    </clipPath>
+  </defs>
+  <g id="cross_play" clip-path="url(#clip-cross_play)">
+    <g id="cross_play-2" data-name="cross_play">
+      <path id="Path_4935" data-name="Path 4935" d="M129.02,0,72.812,56.208,16.6,0,.01,16.594,56.208,72.8,0,129.01,16.593,145.6,72.8,89.395,129.009,145.6,145.6,129.01,89.395,72.8h.01l56.209-56.207Z" transform="translate(33.027 43.337)" opacity="0.05"/>
+      <path id="Path_4937" data-name="Path 4937" d="M129.02,0,72.812,56.208,16.6,0,.01,16.594,56.208,72.8,0,129.01,16.593,145.6,72.8,89.395,129.009,145.6,145.6,129.01,89.395,72.8h.01l56.209-56.207Z" transform="translate(28.027 38.337)" fill="#353535"/>
+    </g>
+  </g>
+</svg>

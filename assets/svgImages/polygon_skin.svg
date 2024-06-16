@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="212" height="201" viewBox="0 0 212 201">
+  <defs>
+    <clipPath id="clip-polygon_skin">
+      <rect width="212" height="201"/>
+    </clipPath>
+  </defs>
+  <g id="polygon_skin" clip-path="url(#clip-polygon_skin)">
+    <path id="Path_11727" data-name="Path 11727" d="M161.8,190.21H38.2L0,72.65,100,0,200,72.65ZM59.45,160.95h81.08l25.06-77.12L100,36.17,34.4,83.83l25.06,77.12Z" transform="translate(6 5)" fill="#353535"/>
+  </g>
+</svg>

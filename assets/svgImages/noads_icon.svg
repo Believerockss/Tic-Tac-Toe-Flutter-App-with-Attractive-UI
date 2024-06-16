@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="79" height="79" viewBox="0 0 79 79">
+  <defs>
+    <clipPath id="clip-noads_icon">
+      <rect width="79" height="79"/>
+    </clipPath>
+  </defs>
+  <g id="noads_icon" clip-path="url(#clip-noads_icon)">
+    <g id="noads_icon-2" data-name="noads_icon" transform="translate(-0.5 -0.5)">
+      <path id="Path_5064" data-name="Path 5064" d="M39.5.5A39.05,39.05,0,1,0,78.6,39.6,38.986,38.986,0,0,0,39.5.5Zm0,72.7A33.7,33.7,0,1,1,73.2,39.5,33.715,33.715,0,0,1,39.5,73.2Z"/>
+      <path id="Path_5065" data-name="Path 5065" d="M13.9,21.5,62.5,60.7A31.287,31.287,0,0,1,13.9,21.5Z"/>
+      <path id="Path_5066" data-name="Path 5066" d="M59.1,15.2a31.222,31.222,0,0,0-43.3,3.9h0L64.4,58.3a31.09,31.09,0,0,0-5.3-43.1Z"/>
+      <path id="Path_5067" data-name="Path 5067" d="M33.4,45.5H24l-1.7,4.8h-3l7.8-21.4h3.2l7.8,21.4h-3C35.2,50.3,33.4,45.5,33.4,45.5ZM28.7,32.3,24.8,43.2h7.8Z"/>
+      <path id="Path_5068" data-name="Path 5068" d="M59.7,39.5c0,6.7-4.3,10.7-11.4,10.7H41.6V28.7h6.7C55.3,28.7,59.7,32.9,59.7,39.5ZM48.2,47.9c5.6,0,8.5-3.2,8.5-8.4S53.8,31,48.2,31H44.3V47.9Z"/>
+      <path id="a" d="M33.3,45.4H24.1L22.4,50H19.5l7.6-21h3.2l7.6,21H35ZM28.7,32.5,24.9,43.1h7.6Z" fill="#fff"/>
+      <path id="d" d="M59.5,39.5c0,6.6-4.3,10.5-11.2,10.5H41.7V28.9h6.6C55.2,28.9,59.5,33,59.5,39.5ZM48.3,47.8c5.5,0,8.4-3.1,8.4-8.3s-2.9-8.4-8.4-8.4H44.5V47.7h3.8Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>
